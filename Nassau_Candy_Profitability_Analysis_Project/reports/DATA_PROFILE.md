@@ -1,0 +1,15 @@
+# Data profile
+
+- **Rows:** 10194
+- **Columns:** 18
+- **Duplicates:** 0
+- **Missing cells:** 0
+- **Revenue:** 141783.63
+- **Cost:** 48340.83
+- **Gross profit:** 93442.8
+- **Weighted gross margin (%):** 65.91
+- **Order date range:** 2024-01-02 to 2025-12-31
+- **Ship date range:** 2026-06-30 to 2030-06-28
+- **Ship before order:** 0
+- **Profit reconciliation discrepancies > $0.02:** 0
+- **Division rows:** {'Chocolate': 9844, 'Other': 310, 'Sugar': 40}
